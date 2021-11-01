@@ -1,7 +1,0 @@
-﻿  labaa27_prim1.cpp
-C:\Users\itwis\source\repos\labaa27_prim1\labaa27_prim1.cpp(2,1): warning C4005: UNICODE: изменение макроопределения
-C:\Users\itwis\source\repos\labaa27_prim1\labaa27_prim1.cpp : message : см. предыдущее определение "UNICODE"
-C:\Users\itwis\source\repos\labaa27_prim1\labaa27_prim1.cpp(4,1): warning C4005: _UNICODE: изменение макроопределения
-C:\Users\itwis\source\repos\labaa27_prim1\labaa27_prim1.cpp : message : см. предыдущее определение "_UNICODE"
-C:\Users\itwis\source\repos\labaa27_prim1\labaa27_prim1.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  labaa27_prim1.vcxproj -> C:\Users\itwis\source\repos\labaa27_prim1\Debug\labaa27_prim1.exe
