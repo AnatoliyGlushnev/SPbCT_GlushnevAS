@@ -1,0 +1,2 @@
+C:\Users\itwis\source\repos\laba28_prim1\Debug\laba28_prim1.vcxproj.AssemblyReference.cache
+C:\Users\itwis\source\repos\laba28_prim1\Debug\laba28_prim1.exe
