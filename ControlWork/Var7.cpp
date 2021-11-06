@@ -48,14 +48,14 @@ public:
         int n = 0;
         string dat, vremya, pred, aud, svalka, day;
         cout << "Укажите нужный Вам день, например 'Понедельник': ";
-        cin >> day; //вводим день, расписание которого хотим узнать
+        cin >> day;
         fstream MF;
         MF.open("data.txt");
         while (MF.good()) 
         {
-            getline(MF, dat, ','); // присваиваем переменной dat первую часть записи в файле (до первой запятой), в переменную запишется день, который обозначен в записи
+            getline(MF, dat, ',');
             if (dat == day) {
-                getline(MF, vremya, ','); // присваиваем остальным переменным время, название предмета, аудиторию, которые обозначение в записи
+                getline(MF, vremya, ',');
                 getline(MF, pred, ',');
                 getline(MF, aud, '\n');
                 cout << vremya << ":00" << " " << pred << " " << aud << " ауд." << "\n";
