@@ -2,8 +2,10 @@
 #include <string>
 #include <fstream>
 #include <windows.h>
+
 using namespace std::string_literals;
 using namespace std;
+
 class Raspisanie 
 {
 public:
