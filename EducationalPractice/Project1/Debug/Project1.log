@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\itwis\Desktop\UP_PoznyakMO\Project1\MyForm.h(309,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\itwis\Desktop\UP_PoznyakMO\Project1\MyForm.h(305,9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\itwis\Desktop\UP_PoznyakMO\Debug\Project1.exe
